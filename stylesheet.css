@@ -113,7 +113,9 @@ input,textarea{
     font-size:18px;
     border:1px solid #dee7ec;
 }
-
+.bottom{
+    display: block;
+}
 footer{
     padding:25px 0;
     border-top: solid 1px;
